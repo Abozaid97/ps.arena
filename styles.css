@@ -1,0 +1,30 @@
+/* btn.css */
+bbody {
+  background-image: url("background.jpg"); /* استبدل "background.jpg" بالصورة التي تريد استخدامها */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: black; /* لون الخلفية الافتراضي */
+  color: white; /* اللون الأبيض للنصوص */
+  font-size: 20px;
+  text-align: center;
+}
+
+
+  
+  .btnkme {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 10px 0;
+    cursor: pointer;
+    display: inline-block;
+  }
+  
+  .btnkme:hover {
+    background-color: #45a049;
+  }
+  
